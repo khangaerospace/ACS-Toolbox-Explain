@@ -1,3 +1,3 @@
 # ACS Toolbox Explain Document 
 
-Please Look At the PDF
+The ADC Toolbox document is attached as a PDF file. Please take a look at the 'ACSToolbox_explain.pdf'
