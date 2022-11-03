@@ -7,3 +7,5 @@
 The development and maintenance is sponsored by [Astris Aerospace Inc](https://www.astrisaerospace.com/). 
 
 The ADC Toolbox explain document is attached as a PDF file. Please take a look at the `ACSToolbox.pdf`
+
+![Astris Aerospace INC](images/overview/astris.png)
