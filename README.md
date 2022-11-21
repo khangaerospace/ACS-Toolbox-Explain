@@ -1,4 +1,4 @@
-# ACS Toolbox Explain Document (Still in progress)
+# ACS Toolbox Explain Document
 
 ![ACS Toolbox](images/overview/ACSToolbox.jpg)
 
