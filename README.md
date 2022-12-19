@@ -1,4 +1,4 @@
-# ACS Toolbox Explain Document (Still in progress)
+# ACS Toolbox Explain Document
 
 ![ACS Toolbox](images/overview/ACSToolbox.jpg)
 
@@ -6,6 +6,8 @@
 
 The development and maintenance is sponsored by [Astris Aerospace Inc](https://www.astrisaerospace.com/). 
 
-The ADC Toolbox explain document is attached as a PDF file. Please take a look at the `ACSToolbox.pdf`
+For more information contact inquiries@astrisaerospace.com.
+
+The ADC Toolbox explain document is attached as a PDF file. Please take a look at the [`ACSToolbox.pdf`](https://github.com/khangaerospace/ACS-Toolbox-Explain/blob/main/ACStoolbox.pdf)
 
 ![Astris Aerospace INC](images/overview/astris.png)
